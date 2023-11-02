@@ -1,2 +1,2 @@
-# expenses-tracker-app
+# expense-tracker-app
 An app that allows users to track expenses.
